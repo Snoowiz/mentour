@@ -1,0 +1,6 @@
+{
+  "name": "Alongside — Mentorship Platform",
+  "description": "A modern, liquid-glass mentorship platform connecting founders and operators with vetted executive mentors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
